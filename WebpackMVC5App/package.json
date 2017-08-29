@@ -5,7 +5,7 @@
   "description": "Webpack with MVC5",
   "main": "build/webpack/jqkendoMain.min.js",
   "scripts": {
-    "prepublish": "webpack -d && webpack -p"
+    "build": "webpack"
   },
   "keywords": [
     "webpack",
